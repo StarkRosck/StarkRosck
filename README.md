@@ -2,7 +2,7 @@
 
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZno2MmIyeGF2ZHBmcmR5MXNyMzBycXRiOGx1bmNnb2YxZWt3aGJxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9YsWHxyBE0e5tmKuMm/giphy.gif" width="35"> Hello World, I'm Arthur Demétrio
 
-<img src="./banner.png" alt="Typing SVG" />
+<img src="" alt="Typing SVG" />
 
 <br>
 
