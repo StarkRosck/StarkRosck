@@ -30,7 +30,7 @@
 public class JavaDeveloper {
 
     String nome = "Arthur Demétrio Lazaro";
-    String cargo = "Pleno Java Developer";
+    String cargo = "Sênior Java Developer";
     String localizacao = "São Paulo - Brasil";
     String foco = "Backend, Microsserviços e Arquitetura";
     
