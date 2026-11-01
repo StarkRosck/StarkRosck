@@ -56,7 +56,7 @@ public class JavaDeveloper {
 
     public void objetivos() {
         System.out.println(
-            "Oportunidade como Desenvolvedor Java Pleno"
+            "Oportunidade como Desenvolvedor Java Sênior"
         );
     }
 }
